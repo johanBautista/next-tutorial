@@ -1,6 +1,12 @@
 .container {
   padding: 0 2rem;
 }
+.articleContainer{
+  background: rgba(255, 99, 71, 0.331);
+    width: 450px;
+    padding: 10px;
+    margin: 10px;
+}
 
 .main {
   min-height: 100vh;
